@@ -25,7 +25,7 @@ A command-line based To-Do List application that allows users to:
 
 This project helped in understanding lists, loops, and user input handling in Python.
 
-File : `Task_1_ToDo_List`
+File : `Task_1_ToDo_List.py`
 
 ---
 
@@ -38,7 +38,7 @@ A console-based calculator developed using Python that performs:
 
 Includes basic input validation and error handling such as division by zero.
 
-File: `Task_2_Calculator`
+File: `Task_2_Calculator.py`
 
 ---
 
@@ -48,7 +48,7 @@ A Python program that generates strong and random passwords based on user-define
 - Numbers
 - Special characters
 
-File: `Task_3_Password_Generator`
+File: `Task_3_Password_Generator.py`
 
 ---
 
